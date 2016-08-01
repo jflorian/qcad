@@ -22,7 +22,7 @@
 *.app
 
 # Makefiles
-Makefile
+#Makefile
 Makefile.Debug
 Makefile.Release
 Makefile.DeviceDebug
