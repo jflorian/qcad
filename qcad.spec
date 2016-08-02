@@ -190,3 +190,6 @@ desktop-file-install \
 
 # {{{1 changelog
 %changelog
+* Mon Aug 01 2016 John Florian <jflorian@doubledog.org> 3.15.4.1-1
+- new package built with tito
+
